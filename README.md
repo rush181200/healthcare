@@ -17,10 +17,3 @@ With serverless architecture we do not need to worry about the increasing number
 Serverless architecture will be cost effective as it will eliminate the need for infrastructure and servers and reduce the cost of maintenance and deployment
 Also, this architecture will make the system more secure as we can leverage the security features and capabilities of cloud providers. So, we can ensure that critical data about the patient is secured
 Hence using a serverless architecture we can overall enhance the health care system and provide the organizations a good experience and better patient care and we can fulfil various requirements of the healthcare industry!
-[ctCHz4Iu-5efNCuTU8BDFN5lbyUGa9Fawr-9PRVLFzeGnaXvHlrtGsPPBVZjvN_RzBGrhEk7GLOEbfdYWkVSuVBQte8ltytofwOgLiPIecDhx4t2GVmwlYEeQ-nB](https://github.com/rush181200/healthcare/assets/47397248/26780157-e840-4060-b068-d6381bae220b)
-
-
-
-
-
-For example during Covid, the number of patients entering the hospitals had increased drastically and there was sudden impact on the healthcare systems like servers were overloaded and crashing
