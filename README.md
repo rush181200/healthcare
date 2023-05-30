@@ -2,6 +2,12 @@
 # healthcare
 
 #Serverless Healthcare Management System
+Final Project for CS 552 Intro to Cloud Computing 
+Team members:
+Rushabh Mehta
+Raj Mehta
+Pratham Reddy
+Sakshi SHetty
 
 Introduction
 The main aim of healthcare management is to ensure that hospital facilities run efficiently and effectively in order to provide high-quality patient care. The system will be one centralized place where all the data about the patient will be stored. Healthcare management systems can help hospitals achieve these goals by streamlining processes, reducing errors, and improving overall efficiency.
